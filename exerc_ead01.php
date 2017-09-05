@@ -52,9 +52,9 @@
               Promove Nutrição
           </h1>
         <!--</td>
-      <!--</tr>
-      <!--<tr>
-        <!--<td>-->
+            </tr>
+            <tr>
+            <td>-->
           <h2 align = 'center' >
               Meus Pacientes
               <!--<hr>-->
