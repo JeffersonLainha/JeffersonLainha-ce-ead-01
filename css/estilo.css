@@ -1,0 +1,29 @@
+﻿body {
+  font-family: Calibri, sans-serif;
+}
+ 
+h1 {
+  text-align: center;
+  width: 100%;
+  padding-bottom: 0px;
+}
+
+h2 {
+  text-align: center;
+  width: 100%;
+}
+ 
+table {
+  width      : 70%;  
+  text-align : center;
+  margin     : 0 auto;
+}
+ 
+th, td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+th {
+	background-color: LightSteelBlue;
+}
