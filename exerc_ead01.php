@@ -37,11 +37,11 @@
         $IMC3              = (54/$potencia3);
         $IMC4              = (85/$potencia4);
         $IMC5              = (46/$potencia5);
-        $IMCEstilo1    = number_format($IMC1, 1, ',', '.');
-        $IMCEstilo2    = number_format($IMC2, 1, ',', '.');
-        $IMCEstilo3    = number_format($IMC3, 1, ',', '.');
-        $IMCEstilo4    = number_format($IMC4, 1, ',', '.');
-        $IMCEstilo5    = number_format($IMC5, 1, ',', '.');
+        $IMCEstilo1    = number_format($IMC1, 2, ',', '.');
+        $IMCEstilo2    = number_format($IMC2, 2, ',', '.');
+        $IMCEstilo3    = number_format($IMC3, 2, ',', '.');
+        $IMCEstilo4    = number_format($IMC4, 2, ',', '.');
+        $IMCEstilo5    = number_format($IMC5, 2, ',', '.');
 
       ?>
     <body>
